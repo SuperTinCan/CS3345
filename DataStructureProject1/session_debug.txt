@@ -1,0 +1,14 @@
+Session Debug Information
+Current Site: goodbye
+
+Back Stack: 
+hihihih
+www.apple.com
+hellloo
+hello
+
+Forward Stack: 
+
+History: 
+hello
+goodbye
